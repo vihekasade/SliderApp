@@ -1,2 +1,0 @@
-# SliderApp
-Sample Slider Application
